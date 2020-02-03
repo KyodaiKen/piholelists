@@ -1,4 +1,5 @@
 detectportal.firefox.com
+sb-ssl.google.com 
 safebrowsing.google.com
 safebrowsing-cache.google.com
 self-repair.mozilla.org
