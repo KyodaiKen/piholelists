@@ -1,4 +1,4 @@
-# piholelists
+# Kyodai Ken's pi-hole Lists
 
 | Name | Description | URL |
 | ---- | ----------- | --- |
