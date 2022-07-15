@@ -5,3 +5,4 @@ safebrowsing-cache.google.com
 self-repair.mozilla.org
 snippets.cdn.mozilla.net
 blocklist.addons.mozilla.org
+contile.services.mozilla.com
